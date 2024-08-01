@@ -26,3 +26,21 @@ You can view a live demo of the project [https://html.themexriver.com/Saasio/ind
 1. Clone the repository:
    ```sh
    git clone https://github.com/AhmedAboRaya/Saasio-1.git
+
+## Screenshots
+- Home
+![Home](./ScreenShots/home.png)
+- About
+![About](./ScreenShots/about.png)
+- Feature
+![Feature](./ScreenShots/feature.png)
+- Team
+![Team](./ScreenShots/team.png)
+- Skill
+![Skill](./ScreenShots/skill.png)
+- Portfolio
+![Portfolio](./ScreenShots/portfolio.png)
+- News
+![News](./ScreenShots/news.png)
+- Footer
+![Footer](./ScreenShots/footer.png)
